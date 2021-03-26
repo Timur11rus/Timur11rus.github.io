@@ -1,0 +1,48 @@
+	body {
+			
+			font-family: 'Pacifico', cursive;
+			background-color: white;
+	
+
+			}
+
+
+
+	.body 	{
+			padding: 0 30px;
+			margin:auto;
+			width: 60%;
+			background-color: #edf0df;
+			}			
+
+	.header {
+
+			font-size: 45px;
+			color: grey;
+			text-align: center;
+
+			}
+
+a {
+
+	text-decoration: none;
+	font-size: 40px;
+	color:grey;
+			
+			}
+
+	
+
+	p	{
+
+		color: black;
+		font-size: 32px;
+
+			}
+
+	img	{
+
+		height: auto;
+		max-width: 100%;
+
+		}
